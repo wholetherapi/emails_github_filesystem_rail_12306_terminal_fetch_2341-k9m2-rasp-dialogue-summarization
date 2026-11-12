@@ -1,0 +1,4 @@
+backbone: t5-small
+retrieval_k: 8
+beams: 4
+epochs: 8
